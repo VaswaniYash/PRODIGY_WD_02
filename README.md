@@ -8,7 +8,7 @@ This is a simple and responsive **Stopwatch Web Application** built using **HTML
 ---
 
 ## 📸 Live Demo
-👉 [Click here to view the live site](https://your-username.github.io/stopwatch-app)  
+👉 [Click here to view the live site](https://github.com/VaswaniYash/PRODIGY_WD_02)  
 *(Replace with your GitHub Pages link)*
 
 ---
